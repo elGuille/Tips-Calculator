@@ -12,7 +12,7 @@ Completed:
 * [x] Optional: UI animations
 * [x] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-(gif/tiptip.gif)
+![Video Walkthrough](gif/tiptip.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
