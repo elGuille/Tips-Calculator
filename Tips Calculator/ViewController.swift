@@ -19,9 +19,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
         tipLabel.text = "$0.00"
         totalAmountLabel.text = "$0.00"
+        
+        self.billField.becomeFirstResponder()
         
     }
 
